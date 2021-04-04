@@ -1,8 +1,8 @@
 {
-  "name": "react-chatbot-kit",
-  "version": "1.1.20",
-  "homepage": "https://fredrikoseberg.github.io/react-chatbot-kit-docs/",
-  "description": "Fully customizable chatbot kit for react.",
+  "name": "react-mychatbot-kit-advanced",
+  "version": "1.0.1",
+  "homepage": "https://github.com/manoj-choudhary/react-chatbot-kit-advanced",
+  "description": "Fully customizable chatbot kit for react advanced.",
   "main": "build/index.js",
   "dependencies": {
     "classnames": "^2.2.6",
@@ -16,8 +16,8 @@
     "prepare": "yarn run build"
   },
   "author": {
-    "name": "Fredrik Strand Oseberg",
-    "email": "fredrik.no@gmail.com"
+    "name": "Manoj Choudhary",
+    "email": "contact.manojc@gmail.com"
   },
   "devDependencies": {
     "@babel/cli": "7.8.4",
@@ -41,6 +41,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FredrikOseberg/react-chatbot-kit"
+    "url": "https://github.com/manoj-choudhary/react-chatbot-kit-advanced"
   }
 }
