@@ -8,4 +8,4 @@ react-chatbot-kit provides an easy way to get started building chatbots.
 
 ## Documentation
 
-View the documentation here: https://fredrikoseberg.github.io/react-chatbot-kit-docs/
+View the documentation here: https://github.com/manoj-choudhary/react-chatbot-kit-advanced
